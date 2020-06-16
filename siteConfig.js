@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://demo.jamify.org`,
+    siteUrl: `https://primary.jamify.org`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
@@ -35,5 +35,5 @@ module.exports = {
     severity: `info`,
 
     // External URL for serving images, videos and other media (e.g. `https://media.jamify.org`)
-    mediaUrl: null,
+    mediaUrl: `https://media.jamify.org`,
 }
